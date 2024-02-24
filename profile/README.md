@@ -2,7 +2,7 @@
 
 [Nerds Catapult](https://nerdscatapult.vercel.app)
 
-Hello and welcome to [Your Organization Name]! We are a community-driven organization dedicated to open source collaboration, project assistance, and software development services. Whether you're a developer looking to contribute to exciting projects, a project owner seeking assistance, or a business in need of software solutions, we're here to help!
+Hello and welcome to Nerds Catapult! We are a community-driven organization dedicated to open source collaboration, project assistance, and software development services. Whether you're a developer looking to contribute to exciting projects, a project owner seeking assistance, or a business in need of software solutions, we're here to help!
 
 ## 🚀 Our Mission
 
